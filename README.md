@@ -16,4 +16,15 @@ Cypress uses modified version of ModLoader for Alpha 1.2.6.
 
 You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You can port mods from Beta 1.2_02 and above, but significant modification is needed)
 
+# Mod List
+## All of the mods I've ported or created available in the "mods" folder.
 
+- Iron Chest
+
+# Mod installation guide
+
+1) Open ext1605_20_client with WinRAR or 7z
+2) Open mod archive with WinRAR or 7z
+3) Drag and drop mod contents into the ext1605_20_client
+4) Close jar ext1605_20_client
+5) Done
