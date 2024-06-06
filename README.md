@@ -21,8 +21,9 @@ You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You
 
 - Iron Chest
 
-
 ![Iron Chest](/images/ironchest.png)
+
+Adds 5 new chests with extended capacity to the game.
 
 # Mod installation guide
 
