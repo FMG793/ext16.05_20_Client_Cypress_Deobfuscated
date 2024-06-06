@@ -19,7 +19,7 @@ You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You
 # Mod List
 ## All of the mods I've ported or created available in the "mods" folder.
 
-##Iron Chest
+- Iron Chest
 
 ![Iron Chest](/images/ironchest.png)
 
@@ -27,7 +27,7 @@ Adds 5 new chests with extended capacity to the game.
 
 (Recuaires Scots Tools API and ModLoader Fix)
 
-##Scots Tools API
+- Scots Tools API
 
   API that allows you to create custom tools more easily and add harvesting level to your blocks
 
