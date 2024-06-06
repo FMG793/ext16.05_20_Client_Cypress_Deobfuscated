@@ -17603,7 +17603,7 @@
 +		minecraft.displayGuiScreen(new GuiInventory(this.inventory, this.inventory.craftingInventory));
 +	}
 +
-+	public void func_9049_0ir9tc7u5jmtNfeoBzZphngtt8O4D64zHw295M26kn9G40qzE3od61GQC9sP(Object object) {
++	public void openModGUI(Object object) {
 +		GuiScreen guiScreen2 = ModLoader.OpenModGUI(this, object);
 +		if(guiScreen2 != null) {
 +			this.mc.displayGuiScreen(guiScreen2);
