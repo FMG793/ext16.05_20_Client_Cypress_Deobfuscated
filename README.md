@@ -27,7 +27,11 @@ Adds 5 new chests with extended capacity to the game.
 
 (Recuaires Scots Tools API and ModLoader Fix)
 
+- Scots Tools API
 
+  API that allows you to create custom tools more easily and add harvesting level to your blocks
+
+  (More detailed instructions can be found in the Scots Tools API archive)
 
 # Mod installation guide
 
