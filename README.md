@@ -30,5 +30,5 @@ Adds 5 new chests with extended capacity to the game.
 1) Open ext1605_20_client with WinRAR or 7z
 2) Open mod archive with WinRAR or 7z
 3) Drag and drop mod contents into the ext1605_20_client
-4) Close jar ext1605_20_client
-5) Done
+4) Close ext1605_20_client
+5) Done, you can run Minecraft
