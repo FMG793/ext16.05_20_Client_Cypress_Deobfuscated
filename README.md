@@ -20,6 +20,7 @@ You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You
 ## All of the mods I've ported or created available in the "mods" folder.
 
 - Iron Chest
+![Iron Chest](/images/ironchest.png)
 
 # Mod installation guide
 
