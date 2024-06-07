@@ -23,15 +23,28 @@ You can port mods from Alpha 1.1.2_01 up to Beta 1.2_01 or create your own. (You
 
 ![Iron Chest](/images/ironchest.png)
 
-Adds 5 new chests with extended capacity to the game.
+Adds 5 new chests with extended capacity.
 
-(Requires Scots Tools API)
+(Requires "Scots Tools API")
 
 - Scots Tools API
 
   API that allows you to create custom tools more easily and add harvesting level to your blocks
 
   (More detailed instructions can be found in the Scots Tools API archive)
+
+- Starving
+
+![Starving](/images/Starving.png)
+
+Adds a hunger bar that can be replenished by food.
+(It's recommended to use this mod with "Splinter", because you can't replenish your health)
+
+- Splinter
+
+![Starving](/images/Starving.png)
+
+Adds items that can heal you.
 
 # Mod installation guide
 
