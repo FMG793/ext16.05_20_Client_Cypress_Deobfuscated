@@ -43,7 +43,8 @@ Adds a hunger bar that can be replenished by food.
 
 - Splinter
 
-![Starving](/images/Splinter.png)
+![Splinter](/images/Splinter.png)
+![Splinter Recipes](/images/Splinter_recipes.png)
 
 Adds items that can heal you.
 
