@@ -12329,37 +12329,37 @@
 +		super(integer1, integer2, arr, iy);
 +	}
 +
-+	public boolean matches(int[] arr) {
-+		ArrayList arrayList2 = new ArrayList();
-+		int[] i3 = this.ingredientMap;
-+		int i4 = i3.length;
++	public boolean matches(int[] nArray) {
++		ArrayList arrayList = new ArrayList();
++		
++		
 +
-+		int i5;
-+		int i6;
-+		for(i5 = 0; i5 < i4; ++i5) {
-+			i6 = i3[i5];
-+			if(i6 != -1) {
-+				arrayList2.add(i6);
++		
++		
++		for (int n : this.ingredientMap) {
++			
++			if (n == -1) continue;
++				arrayList.add((Object)n);
 +			}
-+		}
++		
 +
-+		i3 = arr;
-+		i4 = arr.length;
++		
++		
 +
-+		for(i5 = 0; i5 < i4; ++i5) {
-+			i6 = i3[i5];
-+			if(i6 == -1) {
-+				if(arrayList2.size() == 0) {
++		for (int n : nArray) {
++			
++			if (n == -1) continue;
++				if (arrayList.size() == 0) {
 +					return false;
 +				}
 +
-+				if(arrayList2.contains(i6)) {
-+					arrayList2.remove(i6);
++				if (!arrayList.contains((Object)n)) continue;
++					arrayList.remove((Object)n);
 +				}
-+			}
-+		}
++			
++		
 +
-+		return arrayList2.size() == 0;
++		return arrayList.size() == 0;
 +	}
 +}
 --- net/minecraft/src/NoiseGeneratorOctaves.java
