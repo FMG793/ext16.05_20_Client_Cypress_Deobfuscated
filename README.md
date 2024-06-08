@@ -1,6 +1,6 @@
 # Alpha 1.0.16.05_20 (Cypress) Deobfuscated
 
-ext1605_20_client_deobfuscated - compiled and deobfuscated source code.
+ext1605_20_client_deobfuscated - compiled, deobfuscated source code.
 
 ext1605_20_client_reobfuscated_full - source code compiled and reobfuscated with [RetroMCP](https://github.com/MCPHackers/RetroMCP-Java). (Runable in launcher, can be decompiled by RetroMCP)
 
