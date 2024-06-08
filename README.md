@@ -48,6 +48,13 @@ Adds a hunger bar that can be replenished by food.
 
 Adds items that can heal you.
 
+- 303 Arrows
+
+![Arrows](/images/arrows.png)
+![Arrows Recipes](/images/arrows_recipes.png)
+
+Adds arrows with various properties.
+
 # Mod installation guide
 
 1) Open ext1605_20_client with WinRAR or 7z
