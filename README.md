@@ -55,6 +55,13 @@ Adds items that can heal you.
 
 Adds arrows with various properties.
 
+- Machetes
+
+![Machetes](/images/machetes.png)
+![Machetes Recipes](/images/machetes_recipes.png)
+
+Adds machetes that can break leaves and cloth fast.
+
 # Mod installation guide
 
 1) Open ext1605_20_client with WinRAR or 7z
