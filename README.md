@@ -62,6 +62,8 @@ Adds arrows with various properties.
 
 Adds machetes that can break leaves and cloth fast.
 
+(Requires "Scots Tools API")
+
 # Mod installation guide
 
 1) Open ext1605_20_client with WinRAR or 7z
